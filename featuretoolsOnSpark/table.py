@@ -133,7 +133,7 @@ class Table(object):
 
         inferred_types = {}
         for column in df.columns:
-            column = column.encode("utf-8")
+            # column = column.encode("utf-8")
             inferred_type = None
             if column in column_types:
                 continue

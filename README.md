@@ -6,7 +6,7 @@ This repo is a simplified version of featuretools,using  automatic feature gener
 ## Installation
 Install with pip
 
-	pip install featuretoolsOnSpark
+	pip install featuretoolsOnSparkX
 Install from source
 
 	git clone https://github.com/giantcroc/featuretoolsOnSpark.git
